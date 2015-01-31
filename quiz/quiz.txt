@@ -1,0 +1,2 @@
+
+A vairable stores information.
